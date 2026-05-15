@@ -56,20 +56,19 @@ The dashboard transforms raw complaint data into interactive visual insights to 
 
 ### Summary Dashboard
 
-[![Dashboard Preview](Dash1.png)](https://github.com/NivethaAshokkumarG/consumer-financial-complaints-analysis/blob/main/Dash%201.png)
+![Dashboard Preview](images/Dash1.png)
 
 ### Product Analysis
 
-[![Dashboard Preview](Dash2.png)
-](https://github.com/NivethaAshokkumarG/consumer-financial-complaints-analysis/blob/main/Dash%202.png)
+![Dashboard Preview](images/Dash2.png)
 
 ### State-Level Analysis
 
-[![Dashboard Preview](Dash3.png)](https://github.com/NivethaAshokkumarG/consumer-financial-complaints-analysis/blob/main/Dash%203.png)
+![Dashboard Preview](images/Dash3.png)
 
 ### Detailed Complaint Analysis
 
-[![Dashboard Preview](Dash4.png)](https://github.com/NivethaAshokkumarG/consumer-financial-complaints-analysis/blob/main/Dash%204.png)
+![Dashboard Preview](images/Dash4.png)
 
 ---
 
