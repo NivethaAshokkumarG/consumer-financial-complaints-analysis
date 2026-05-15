@@ -3,23 +3,20 @@ Interactive Power BI dashboard analyzing financial consumer complaints, product 
 
 
 Project Overview :
-          This Power BI project analyzes financial consumer complaints to identify product-level trends, regional complaint patterns, and customer service performance metrics.
+         
+          Developed an end-to-end Power BI dashboard analyzing financial consumer complaints data to identify complaint trends, product-level issues, resolution patterns, and state-wise performance insights.
 
-Tools Used:
-      - Power BI
-      - Power Query
-      - Excel
-      - DAX  
-Dashboard Features:
-        - KPI Cards
-        - Drillthrough Analysis
-        - State-Level Analysis
-        - Product-Level Insights
-        - Complaint Trend Analysis
-        - Interactive Navigatio
+Key Features:
+          • Interactive multi-page dashboard with drillthrough navigation
+          • KPI tracking and trend analysis
+          • Power Query data cleaning and transformation
+          • Star Schema data modeling
+          • Advanced DAX calculations
+          • State-wise and product-wise complaint analysis
+          • Business insights and performance storytelling
 
-Key Insights:
-          Product Complaint Response Tracking
-          Major Complaint Issues Across Product
-          Monthly Complaint Trend
-          Top Financial Product by Complaint Volume
+Tools & Technologies:
+          Power BI, SQL, Excel, DAX, Power Query
+
+Key Outcome:
+          Improved reporting visibility through automated dashboards and transformed raw complaint data into actionable business insights.
