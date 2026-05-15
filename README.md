@@ -28,6 +28,12 @@ The dashboard transforms raw complaint data into interactive visual insights to 
 * SQL
 
 ---
+## 🏗 Data Modeling
+
+1.The Star Schema approach was chosen because it improves dashboard performance, simplifies relationship management, and makes DAX calculations more efficient. 
+2.It also provides better scalability for handling large datasets and supports faster aggregation for KPI analysis, drillthrough reports, slicers, and trend analysis.
+3.A dedicated Date Table was integrated for time intelligence calculations such as monthly trends and period-over-period analysis.
+
 
 ## 📌 Dashboard Features
 
