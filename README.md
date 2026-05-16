@@ -1,4 +1,4 @@
-# 📊 Consumer Financial Complaints Analysis Dashboard
+# 📊  Financial Consumer Complaints Analysis Dashboard
 
 Interactive Power BI dashboard designed to analyze financial consumer complaints, identify complaint trends, monitor resolution performance, and generate actionable business insights.
 
