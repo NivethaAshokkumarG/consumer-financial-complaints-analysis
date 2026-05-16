@@ -64,11 +64,11 @@ The dashboard transforms raw complaint data into interactive visual insights to 
 ### Summary Dashboard
 ![Dashboard Preview](images/Dash1.png)
 
-### Product Analysis
+### State-Level Analysis
 
 ![Dashboard Preview](images/Dash2.png)
 
-### State-Level Analysis
+### Product Analysis
 
 ![Dashboard Preview](images/Dash3.png)
 
